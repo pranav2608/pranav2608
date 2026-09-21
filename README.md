@@ -25,11 +25,12 @@ Obsessed with learning AI deeply and building practical, agentic systems that so
 
 ---
 
-### 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranav2608&show_icons=true&theme=radial&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav2608&layout=compact&theme=radial" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav2608&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav2608&layout=compact&theme=dark" />
 </p>
 
 ---
