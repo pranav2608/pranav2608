@@ -36,5 +36,5 @@ Obsessed with learning AI deeply and building practical, agentic systems that so
 
 ### 📬 Connect with Me
 
-- **LinkedIn:** [Pranav Mahajan](https://linkedin.com)
-- **Email:** `your.email@example.com`
+- **LinkedIn:** [Pranav Mahajan]([https://linkedin.com](https://www.linkedin.com/in/pranav-mahajan-838122173))
+- **Email:** `mahajanpranav41@gmail.com`
